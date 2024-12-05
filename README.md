@@ -90,18 +90,5 @@ Check the Results:
 
 After running the notebook, you can check the SQL Server database (SoccerProjects) for the uploaded data.
 Review the ChangeLogs table for a log of all operations performed.
-Download the Summary Document:
 
-The document data_processing_summary.docx will be saved to C:/Users/denos/OneDrive/Projects/AU_Soccer/.
-Example Output
-Players Data:
-
-A preview of the players_df DataFrame, containing player details such as player_id, player_name, birth_date, etc.
-XGoals Data:
-
-A preview of the xgoals_df DataFrame, containing statistics such as shots, goals, xgoals, key_passes, etc.
-Logs:
-
-Each operation, such as data fetching, cleaning, and uploading, is logged to the ChangeLogs table.
-Contact
 For any issues or further questions, please reach out to Sam Denomme.
