@@ -19,7 +19,7 @@ The project also includes robust logging and error handling to track the entire 
 
 ### Prerequisites
 
-Before running the project, you’ll need:
+Before running the project, youâ€™ll need:
 
 1. **Python 3.x**: The project uses Python 3.x for data fetching, cleaning, and SQL interaction.
 2. **Required Python Libraries**:
@@ -32,6 +32,7 @@ To install the required libraries, run the following command:
 
 ```bash
 pip install requests pandas pyodbc python-docx
+```
 
 3. SQL Server:
 A running instance of Microsoft SQL Server (e.g., SQLEXPRESS).
